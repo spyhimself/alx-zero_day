@@ -1,1 +1,1 @@
-I think I shouldn't leave it empty here
+It’s the only time you are allowed to update and commit from GitHub interface.
